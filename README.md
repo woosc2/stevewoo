@@ -1,1 +1,1 @@
-# stevewoo's first public repositry
+# stevewoo's first public Repository
